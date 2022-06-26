@@ -6,3 +6,4 @@ car = {
 }
 a = input()
 print(car[a])
+
